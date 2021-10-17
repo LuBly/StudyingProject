@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\backpack.cpp">
+    <ClCompile Include="backpack.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\FindCenter_Using_MinMax_Heap.cpp">
+    <ClCompile Include="FindCenter_Using_MinMax_Heap.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
